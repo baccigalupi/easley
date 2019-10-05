@@ -1,0 +1,28 @@
+{
+  "name": "easley",
+  "version": "0.0.1",
+  "description": "TBD",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baccigalupi/easley.git"
+  },
+  "keywords": [
+    "front-end",
+    "framework",
+    "template",
+    "rendering"
+  ],
+  "author": "Kane Baccigalupi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baccigalupi/easley/issues"
+  },
+  "homepage": "https://github.com/baccigalupi/easley#readme",
+  "devDependencies": {
+    "mocha": "^6.2.1"
+  }
+}
