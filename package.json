@@ -1,10 +1,11 @@
 {
   "name": "easley",
+  "type": "module",
   "version": "0.0.1",
   "description": "TBD",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "./node_modules/.bin/mocha --require @babel/register"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,11 @@
   },
   "homepage": "https://github.com/baccigalupi/easley#readme",
   "devDependencies": {
+    "@babel/cli": "^7.6.2",
+    "@babel/core": "^7.6.2",
+    "@babel/node": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "@babel/register": "^7.6.2",
     "mocha": "^6.2.1"
   }
 }
