@@ -1,0 +1,7 @@
+<section class='user-detail'>
+  <div class="first-name">{ firstName }</div>
+  <div class="last-name">{ lastName }</div>
+  <div class="email">{ email }</div>
+  <div class="phone">{ phone }</div>
+  <a href={ editLink }>Edit</a>
+</section>

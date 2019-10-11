@@ -1,0 +1,8 @@
+<user-detail model={ selectedUser } />
+
+<section class="active-users">
+  <h1>Active users</h1>
+  <ul class='user-list'>
+    <user-condensed-view collection={ users } />
+  </ul>
+</section>

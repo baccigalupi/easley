@@ -1,0 +1,5 @@
+<li class="user-condensed-view">
+  <div class="user-name">{ fullName }</div>
+  <a href={ detailLink }>View details</a>
+  <a href={ editLink } >Edit</a>
+</li>

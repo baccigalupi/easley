@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 23,
+      "active": true,
+      "firstName": "Gladys",
+      "lastName": "Washington",
+      "email": "gwash@ucsf.edu",
+      "phone": "510-222-5151"
+    },
+    {
+      "id": 3,
+      "active": false,
+      "firstName": "Buffy",
+      "lastName": "Smith",
+      "email": "buffs@smith.edu",
+      "phone": "212-333-1212"
+    },
+    {
+      "id": 123,
+      "active": true,
+      "firstName": "Buford",
+      "lastName": "Collins",
+      "email": "bufford.collins@georgetown.edu",
+      "phone": "916-222-3333"
+    }
+  ]
+}
